@@ -2,7 +2,7 @@
 # Date: 2019-11-04
 # Created by: RLADDACH
 # Title: TCGA_LUSC_RNA_Seq_paired_analysis_01_source_data_download.R
-# Script to retreve data for TCGA-LUSC analysis and create a raw counts matrix
+# Script to retrieve data for TCGA-LUSC analysis and create a raw counts matrix 
 ################################################################################
 
 # loading libraries
